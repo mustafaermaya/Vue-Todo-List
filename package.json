@@ -8,8 +8,16 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.21",
+    "@fortawesome/free-solid-svg-icons": "^5.10.1",
+    "@fortawesome/vue-fontawesome": "^0.1.6",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.27",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "pretty-checkbox": "^3.0.3",
+    "sweetalert2": "^8.15.3",
+    "vue": "^2.6.10",
+    "vue-sweetalert2": "^2.1.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.10.0",
